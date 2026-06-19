@@ -1,3 +1,7 @@
+<a href="https://files.catbox.moe/zmdvia.jpg">
+  <img src="https://files.catbox.moe/zmdvia.jpg" alt="Alt Text" />
+</a>
+
 <a href="https://files.catbox.moe/x0dide.png">
   <img src="https://files.catbox.moe/x0dide.png" alt="Alt Text" width="350" />
 </a>
