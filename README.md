@@ -9,12 +9,8 @@
   <img src="https://files.catbox.moe/x0dide.png" alt="Alt Text" width="350" />
 </a>
 
-div.a {
-  text-align: center;
-}
-<div class="a">
-<p>My body is a machine.</p>
-</div>
+<p align="center">dude.</p>
+
 
 <p align="center">
   <img src="https://files.catbox.moe/efe3a5.png" />
