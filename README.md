@@ -13,8 +13,15 @@
   <a href="https://files.catbox.moe/efe3a5.png">
   <img src="https://files.catbox.moe/efe3a5.png" alt="Alt Text" />
 </a>
+</p> 
+<p align="center">
+  <a href="https://files.catbox.moe/d2w2yx.png">
+  <img src="https://files.catbox.moe/d2w2yx.png" alt="Alt Text" />
+</a>
 </p>
-
-![Gentleholiday](https://files.catbox.moe/d2w2yx.png) 
-![Lace](https://files.catbox.moe/kr5x62.png)
+<p align="center">
+  <a href="https://files.catbox.moe/kr5x62.png">
+  <img src="https://files.catbox.moe/kr5x62.png" alt="Alt Text" />
+</a>
+</p>
 
