@@ -9,7 +9,7 @@
   <img src="https://files.catbox.moe/x0dide.png" alt="Alt Text" width="350" />
 </a>
 
-TEXT
+<p>TEXT</p>
 
 
 <p align="center">
