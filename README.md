@@ -10,7 +10,7 @@
 </a>
 
 <div class="a">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut.</p>
+<p>My body is a machine.</p>
 </div>
 
 <p align="center">
