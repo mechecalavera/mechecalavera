@@ -10,7 +10,10 @@
 </a>
 
 <p align="center">
-![Lace](https://files.catbox.moe/efe3a5.png) 
+  <a href="https://files.catbox.moe/efe3a5.png">
+  <img src="https://files.catbox.moe/efe3a5.png" alt="Alt Text" />
+</a>
+
 ![Gentleholiday](https://files.catbox.moe/d2w2yx.png) 
 ![Lace](https://files.catbox.moe/kr5x62.png)
 </p>
