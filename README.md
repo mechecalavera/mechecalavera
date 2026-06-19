@@ -9,7 +9,7 @@
   <img src="https://files.catbox.moe/x0dide.png" alt="Alt Text" width="350" />
 </a>
 
-<p align="center">dude.</p>
+<p align="center"><a href="https://www.example.com">This is the clickable text</a></p>
 
 
 <p align="center">
