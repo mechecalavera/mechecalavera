@@ -9,7 +9,7 @@
   <img src="https://files.catbox.moe/x0dide.png" alt="Divider" width="350" />
 </a>
 
-<p align="center"><a href="https://b-52.lurk.me/">Lurk Me</a></p>
+<p align="center"><a href="https://b-52.lurk.me/page/">Lurk Me</a></p>
 
 
 <p align="center">
