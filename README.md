@@ -17,7 +17,6 @@
   <img src="https://files.catbox.moe/efe3a5.png" />
   <img src="https://files.catbox.moe/d2w2yx.png" />
   <img src="https://files.catbox.moe/kr5x62.png" />
-  <img src="https://files.catbox.moe/m62hkb.png" />
   <img src="https://files.catbox.moe/n9x4ya.png" />
   <img src="https://files.catbox.moe/0zkubn.png" />
   <img src="https://files.catbox.moe/p9nefu.png" />
