@@ -10,7 +10,7 @@
 </a>
 
 <p align="center"><a href="https://b-52.lurk.me/page">Lurk Me</a></p>
-<p align="center">Hey guess my favorite ship guys</p>
+<p align="center">Hey guess my favorite ship guys</p> . btw remaking this eventually aaaaaA
 
 
 <p align="center">
