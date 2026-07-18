@@ -33,7 +33,7 @@
 
   <div align="left">
   
-  [LurkMe](https://b-52.lurk.me/page) $\color{#d33c43}{\textsf{♡}}$ [WIP](https://youtu.be/buzLbQbmLj4?si=XJN7WXpESjNJosC0)
+  [LurkMe](https://b-52.lurk.me/page) $\color{#d33c43}{\textsf{♡}}$ [Straw](https://t850.straw.page/) $\color{#d33c43}{\textsf{♡}}$ [WIP](https://youtu.be/buzLbQbmLj4?si=XJN7WXpESjNJosC0)
 
 
 ⠀
